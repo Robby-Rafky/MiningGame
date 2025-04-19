@@ -1,0 +1,51 @@
+{
+    "diamond": {
+        "hardness": 8, 
+        "tier": 2, 
+        "depth": 10, 
+        "rarity": 10, 
+        "size": 5
+    },
+    "iron": {
+        "hardness": 3, 
+        "tier": 1, 
+        "depth": 0, 
+        "rarity": 60, 
+        "size": 8
+    },
+    "copper": {
+        "hardness": 1, 
+        "tier": 0, 
+        "depth": 0, 
+        "rarity": 50, 
+        "size": 12
+    },
+    "coal": {
+        "hardness": 2, 
+        "tier": 5, 
+        "depth": 10, 
+        "rarity": 30, 
+        "size": 15
+    },
+    "emerald": {
+        "hardness": 2, 
+        "tier": 1, 
+        "depth": 0, 
+        "rarity": 20, 
+        "size": 10
+    },
+    "gold": {
+        "hardness": 2, 
+        "tier": 0, 
+        "depth": 0, 
+        "rarity": 30, 
+        "size": 12
+    },
+    "stone": {
+        "hardness": 1, 
+        "tier": 0, 
+        "depth": 0, 
+        "rarity": 0, 
+        "size": 1
+    }
+}
